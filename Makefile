@@ -1,5 +1,5 @@
-APPNAME=tk-python-template
-PORT=8081
+APPNAME=tk-cascading-architecture
+PORT=8085
 TAG=latest
 USERNAME=tk3413
 
